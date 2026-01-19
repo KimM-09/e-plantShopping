@@ -113,9 +113,9 @@ body {
     margin-top: 10px;
 }
 
-.product-button:hover {
+/* .product-button:hover {
     background-color: #c0392b;
-}
+} */
 
 .product-button.added-to-cart {
     background-color: grey; /* Grey when product is added */
@@ -222,9 +222,9 @@ body {
     cursor: pointer;
   }
   
-  .product-button:hover {
+  /* .product-button:hover {
     background-color: #45a049;
-  }
+  } */
   
 
   @media (max-width: 1200px) {
